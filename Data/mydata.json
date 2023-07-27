@@ -1,0 +1,14 @@
+[
+    {
+        "userId": 1,
+        "id":1,
+        "title":"Perbedaan Antara Web Programmer ",
+        "body": "Perbedaan Antara Web Programmer"
+    },
+    {
+        "userId": 2,
+        "id":2,
+        "title":"Perbedaan Antara UI/UX",
+        "body": "Perbedaan Antara UI/UX"
+    }
+]
